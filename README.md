@@ -8,7 +8,7 @@ FoodBridge is a real-time marketplace designed to solve the critical gap in the 
 [View the Live Project here](https://codeNimra.github.io/FoodBridge)
 
 ## 📺 Video Pitch
-[Watch the Demo on YouTube](https://youtu.be/gjCnfsIn3_U)
+[Watch the Demo on YouTube](https://youtu.be/1NELjB22ww4)
 
 ---
 
